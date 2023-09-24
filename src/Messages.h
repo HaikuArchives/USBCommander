@@ -1,0 +1,2 @@
+#define DEVICE_ADDED 'DVAD'
+#define	DEVICE_REMOVED	'DVRM'
